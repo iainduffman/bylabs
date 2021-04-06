@@ -131,11 +131,11 @@ const links = [
 const IndexPage = () => {
   return (
     <div class="uk-container uk-height-vieport">
-    <div class="vidOverlay uk-height-vieport"></div>
+    <div class="uk-overlay-primary uk-position-cover"></div>
     <video src="https://www.dropbox.com/s/i1psd3fycxolg28/adnic%20hero%20mv%20001.mp4?raw=1" autoPlay loop muted playsinline data-uk-cover></video>
     <main>
       <title>Home Page</title>
-      <div className="uk-position-center uk-text-center">
+      <div className="uk-position-center uk-text-center logo">
       {/* <h1>Congratulations</h1> */}
       {/* <StaticImage style={{width: '1261px', height: '221px'}} src="../images/logonew-svg.svg" alt="Image" /> */}
       <img className="uk-text-center" style={{width: '261px', height: '221px'}} src={LogoImg} alt="Byotik Logo" />

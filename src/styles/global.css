@@ -1,4 +1,5 @@
 html {background: #000; overflow: hidden;}
 h1 {color: #fff;}
 
-.vidOverlay {background: #fff; opacity: 0.5; position: absolute; z-index: 999;}
+.uk-overlay-primary.uk-position-cover {z-index: 2; background: rgba(34,34,34,.35);}
+.logo {position: relative; z-index: 3;}
