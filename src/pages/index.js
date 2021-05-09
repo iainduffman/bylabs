@@ -130,9 +130,9 @@ const links = [
 // markup
 const IndexPage = () => {
   return (
-    <div class="uk-container uk-height-vieport">
+    <div class="uk-container">
     <div class="uk-overlay-primary uk-position-cover"></div>
-    <video src="https://www.dropbox.com/s/i1psd3fycxolg28/adnic%20hero%20mv%20001.mp4?raw=1" autoPlay loop muted playsinline data-uk-cover></video>
+    <video class="uk-height-2-3" src="https://www.dropbox.com/s/9x94dsb6xj9n5qt/C0158_7.mp4?raw=1" autoPlay loop muted data-uk-cover uk-cover="true"></video>
     <main>
       <title>Home Page</title>
       <div className="uk-position-center uk-text-center logo">
