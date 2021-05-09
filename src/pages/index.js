@@ -132,7 +132,7 @@ const IndexPage = () => {
   return (
     <div class="uk-container">
     <div class="uk-overlay-primary uk-position-cover"></div>
-    <video class="uk-height-2-3" src="https://www.dropbox.com/s/9x94dsb6xj9n5qt/C0158_7.mp4?raw=1" autoPlay loop muted data-uk-cover uk-cover="true"></video>
+    <video class="uk-height-2-3" src="https://www.dropbox.com/s/6l0opw9rt8rfqu2/C0158_8.mp4?raw=1" autoPlay loop muted data-uk-cover uk-cover="true"></video>
     <main>
       <title>Home Page</title>
       <div className="uk-position-center uk-text-center logo">
