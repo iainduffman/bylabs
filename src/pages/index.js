@@ -132,13 +132,13 @@ const IndexPage = () => {
   return (
     <div class="uk-container">
     <div class="uk-overlay-primary uk-position-cover"></div>
-    <video class="uk-height-2-3" src="https://www.dropbox.com/s/6l0opw9rt8rfqu2/C0158_8.mp4?raw=1" autoPlay loop muted data-uk-cover uk-cover="true"></video>
+    <video class="uk-width-1-1 uk-padding-large" src="https://www.dropbox.com/s/1265c99xiv3h7py/FX3%20Slow%20Mo%20Test.mp4?raw=1" autoPlay loop muted data-uk-cover></video>
     <main>
       <title>Home Page</title>
       <div className="uk-position-center uk-text-center logo">
       {/* <h1>Congratulations</h1> */}
       {/* <StaticImage style={{width: '1261px', height: '221px'}} src="../images/logonew-svg.svg" alt="Image" /> */}
-      <img className="uk-text-center" style={{width: '261px', height: '221px'}} src={LogoImg} alt="Byotik Logo" />
+      <img className="uk-text-center" style={{width: '164px', height: '201px'}} src={LogoImg} alt="Byotik Logo" />
       </div>
     </main>
     </div>
