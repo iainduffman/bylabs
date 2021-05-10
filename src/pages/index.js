@@ -131,8 +131,12 @@ const links = [
 const IndexPage = () => {
   return (
     <div class="uk-container">
+    <div class="cropper">
+    <div class="topBar"></div>
+    <div class="bottomBar"></div>
     <div class="uk-overlay-primary uk-position-cover"></div>
     <video class="uk-width-1-1 uk-padding-large" src="https://www.dropbox.com/s/1265c99xiv3h7py/FX3%20Slow%20Mo%20Test.mp4?raw=1" autoPlay loop muted data-uk-cover></video>
+    </div>
     <main>
       <title>Home Page</title>
       <div className="uk-position-center uk-text-center logo">

@@ -8,4 +8,26 @@ h1 {color: #fff;}
 .uk-padding-large {
     padding: 132px;
 }
+
+.cropper {
+max-height: 90%;
+overflow: hidden;
+}
+
+}
+
+.topBar, .bottomBar {
+    position: absolute;
+    z-index: 999;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 132px;
+    width: 100%;
+    background: #0C0C0C;
+}
+
+.bottomBar { 
+    bottom: 0 !important;
+    top: auto;
 }
