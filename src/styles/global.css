@@ -31,3 +31,19 @@ overflow: hidden;
     bottom: 0 !important;
     top: auto;
 }
+
+
+@media only screen 
+    and (device-width: 390px) 
+    and (device-height: 844px) 
+    and (-webkit-device-pixel-ratio: 3) { 
+
+    .uk-padding-large {
+        padding: 24px !important;
+    }
+
+    .topBar, .bottomBar {
+        height: 32px;
+    }
+
+}
