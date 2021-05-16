@@ -135,10 +135,10 @@ const IndexPage = () => {
     <div class="topBar"></div>
     <div class="bottomBar"></div>
     <div class="uk-overlay-primary uk-position-cover"></div>
-    <video class="uk-width-1-1 uk-padding-large" src="https://www.dropbox.com/s/mf68kjwoyuvau5t/FX3%20Slow%20Mo%20Test_3.mp4?raw=1" playsInline autoplay loop muted data-uk-cover></video>
+    <video class="uk-width-1-1 uk-padding-large" src="https://www.dropbox.com/s/mymf23dprfm9nsb/newreel.mp4?raw=1" playsInline autoplay loop muted data-uk-cover></video>
     </div>
     <main>
-      <title>Home Page</title>
+      <title>Home Page X</title>
       <div className="uk-position-center uk-text-center logo">
       {/* <h1>Congratulations</h1> */}
       {/* <StaticImage style={{width: '1261px', height: '221px'}} src="../images/logonew-svg.svg" alt="Image" /> */}
