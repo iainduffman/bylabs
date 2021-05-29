@@ -135,7 +135,7 @@ const IndexPage = () => {
     <div class="topBar"></div>
     <div class="bottomBar"></div>
     <div class="uk-overlay-primary uk-position-cover"></div>
-    <video class="uk-width-1-1 uk-padding-large" src="https://www.dropbox.com/s/i1w2y81y0lkr6ob/FX3%20Slow%20Mo%20Test_10.mp4?raw=1" playsInline autoplay loop muted data-uk-cover></video>
+    <video class="uk-width-1-1 uk-padding-large" src="https://www.dropbox.com/s/6qqv5k8pztyun6x/FX3%20Slow%20Mo%20Test_12.mp4?raw=1" playsInline autoplay loop muted data-uk-cover></video>
     </div>
     <main>
       <title>Home Page X</title>
